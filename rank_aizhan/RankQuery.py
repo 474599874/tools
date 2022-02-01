@@ -5,7 +5,7 @@ from tld import get_tld
 import time
 
 #你的爱站api
-api = '88487e2a266a72255048e8202d506305'
+api = '###################################'
 
 
 def echoMessage():
